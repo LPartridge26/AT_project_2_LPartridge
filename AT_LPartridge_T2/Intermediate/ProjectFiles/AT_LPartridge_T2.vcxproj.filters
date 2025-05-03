@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AT_LPartridge_T2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AT_LPartridge_T2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AT_LPartridge_T2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AT_LPartridge_T2">
+      <UniqueIdentifier>{4BAF2C01-52A5-32F4-A01A-8175CAC1A036}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AT_LPartridge_T2\AT_LPartridge_T2.Build.cs">
+      <Filter>Source\AT_LPartridge_T2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AT_LPartridge_T2\AT_LPartridge_T2.cpp">
+      <Filter>Source\AT_LPartridge_T2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AT_LPartridge_T2\AT_LPartridge_T2.h">
+      <Filter>Source\AT_LPartridge_T2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AT_LPartridge_T2\UConfigFileReader.cpp">
+      <Filter>Source\AT_LPartridge_T2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AT_LPartridge_T2\UConfigFileReader.h">
+      <Filter>Source\AT_LPartridge_T2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

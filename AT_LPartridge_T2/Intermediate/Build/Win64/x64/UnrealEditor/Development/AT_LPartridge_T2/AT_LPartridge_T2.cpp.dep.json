@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\lukep\\documents\\unreal projects\\at_lpartridge_t2\\source\\at_lpartridge_t2\\at_lpartridge_t2.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\lukep\\documents\\unreal projects\\at_lpartridge_t2\\intermediate\\build\\win64\\x64\\at_lpartridge_t2editor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "f:\\lukep\\documents\\unreal projects\\at_lpartridge_t2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\at_lpartridge_t2\\definitions.at_lpartridge_t2.h",
+            "f:\\lukep\\documents\\unreal projects\\at_lpartridge_t2\\source\\at_lpartridge_t2\\at_lpartridge_t2.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

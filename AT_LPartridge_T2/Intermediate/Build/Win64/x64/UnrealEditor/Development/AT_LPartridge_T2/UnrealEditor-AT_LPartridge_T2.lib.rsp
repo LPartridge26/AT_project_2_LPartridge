@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AT_LPartridge_T2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\lukep\Documents\Unreal Projects\AT_LPartridge_T2\Intermediate\Build\Win64\x64\AT_LPartridge_T2Editor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"F:\lukep\Documents\Unreal Projects\AT_LPartridge_T2\Intermediate\Build\Win64\x64\UnrealEditor\Development\AT_LPartridge_T2\AT_LPartridge_T2.cpp.obj"
+"F:\lukep\Documents\Unreal Projects\AT_LPartridge_T2\Intermediate\Build\Win64\x64\UnrealEditor\Development\AT_LPartridge_T2\Default.rc2.res"
+/OUT:"F:\lukep\Documents\Unreal Projects\AT_LPartridge_T2\Intermediate\Build\Win64\x64\UnrealEditor\Development\AT_LPartridge_T2\UnrealEditor-AT_LPartridge_T2.lib"

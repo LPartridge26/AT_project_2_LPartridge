@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AT_LPartridge_T2",
+			"Path": "..\\Source\\AT_LPartridge_T2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AT_LPartridge_T2Editor",
+			"Path": "..\\Source\\AT_LPartridge_T2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
